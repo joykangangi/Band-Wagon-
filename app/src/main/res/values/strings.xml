@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Band Wagon</string>
+    <string name="message">Music from your favourite band</string>
+    <string name="music_icon">music icon</string>
+    <string name="sautisol">"Sauti sol Band "</string>
+    <string name="band_name">Sauti Sol</string>
+    <string name="afro">Afro-pop</string>
+    <string name="sauti_price">$25</string>
+</resources>
